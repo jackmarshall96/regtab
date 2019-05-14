@@ -1,0 +1,4 @@
+v 3
+d regtab - Command to create LaTeX regression tables.
+f regtab.ado
+f regtab.sthlp
